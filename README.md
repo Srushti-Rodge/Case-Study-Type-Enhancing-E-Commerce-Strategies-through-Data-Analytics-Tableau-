@@ -12,4 +12,26 @@ Your mission is to leverage Tableau's powerful features to create an insightful 
 
 ## Data Source:
 
-[E-commerce Data Set1](https://docs.google.com/spreadsheets/d/1wpIVUzezf0fzMjaiCZFHkpE1OuzznPsB/edit?usp=sharing&ouid=115453509388634668066&rtpof=true&sd=true)
+[E-commerce Data Set1.xlsx](https://docs.google.com/spreadsheets/d/1GJ3R_miD4UfUPvFDy9smAkZiBYOSYHSA/edit?usp=sharing&ouid=115453509388634668066&rtpof=true&sd=true)
+The "EcommerceDataset1.xlsx" file contains the following columns:
+
+1. OrderID: A unique identifier for each order.
+2. CustomerName: Name of the customer.
+3. Product: Type of product ordered.
+4. Quantity: Quantity of the product ordered.
+5. UnitPrice: Price per unit of the product.
+6. OrderDate: Date when the order was placed.
+7. ShippingCost: Cost of shipping for the order.
+8. CustomerID: A unique identifier for each customer. (Primary Key)
+
+[E-commerce Data Set2.xlsx](https://docs.google.com/spreadsheets/d/1wpIVUzezf0fzMjaiCZFHkpE1OuzznPsB/edit?usp=sharing&ouid=115453509388634668066&rtpof=true&sd=true)
+The "EcommerceDataset2.xlsx" file contains the following columns:
+
+1. CustomerID: A unique identifier for each customer, corresponding to the 'CustomerID' in "EcommerceDataset1.xlsx". (Foreign Key)
+2. CustomerEmail: Email address of the customer.
+3. Country: Country of the customer.
+4. Membership: Membership status of the customer (e.g., Premium, VIP).
+5. SignUpDate: Date when the customer signed up.
+6. LastOrderDate: Date of the customer's last order.
+7. TotalSpent: Total amount spent by the customer.
+8. Customer Communication Log: Detailed communication logs for each customer.
