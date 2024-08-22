@@ -38,3 +38,7 @@ The "EcommerceDataset2.xlsx" file contains the following columns:
 
 ## Dashboash
 ![My Image](https://drive.google.com/uc?export=view&id=1OZ01AGJZUDMhHdbvo2nx39V_BeDdbDCl)
+
+![My Image](https://drive.google.com/uc?export=view&id=1mxmtpGHhtPeS-dLAyKwng25dm4PMU0ki)
+
+![My Image](https://drive.google.com/uc?export=view&id=1InDakyDl3r1tR1Vz4PzoSIrQyHJmSdU8)
